@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1413511886 source:d:\school\junior\ec327\pa2\q1\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"myFunc.h"
+
+1413477267 d:\school\junior\ec327\pa2\q1\myfunc.h
+
+1413519683 source:d:\school\junior\ec327\pa2\q1\myfunc.cpp
+	"myFunc.h"
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<iomanip>
+
+1413511886 source:d:\school\junior\ec327\pa2\q1\q1.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	"myFunc.h"
+

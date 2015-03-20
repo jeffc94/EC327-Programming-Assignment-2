@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1413644068 source:d:\school\junior\ec327\pa2\q3\main.cpp
+	<iostream>
+	<iomanip>
+	"q3func.h"
+	"statistics.h"
+
+1413557121 d:\school\junior\ec327\pa2\q3\q3func.h
+
+1413640549 source:d:\school\junior\ec327\pa2\q3\q3func.cpp
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
+1413640644 source:d:\school\junior\ec327\pa2\q3\statistics.cpp
+	"statistics.h"
+	<cmath>
+
+1413559996 d:\school\junior\ec327\pa2\q3\statistics.h
+
+1413640468 source:d:\school\junior\ec327\pa2\q3\q3.cpp
+	<iostream>
+	<iomanip>
+	"q3func.h"
+	"statistics.h"
+
